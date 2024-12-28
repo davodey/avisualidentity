@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="59222f0b-6d46-42eb-ad72-44406391f032" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change afterPath="$PROJECT_DIR$/assets/img/homeworkpilot-ad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/designing-for-performance.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/designing-for-performance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/exploring-parallax-scrolling-its-not-for-everyone.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/exploring-parallax-scrolling-its-not-for-everyone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/how-often-should-you-redesign-your-website.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/how-often-should-you-redesign-your-website.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/the-basics-of-flat-ui-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/the-basics-of-flat-ui-design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/the-death-of-the-home-page-image-slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/the-death-of-the-home-page-image-slider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/website-content-the-great-delay.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/website-content-the-great-delay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/what-you-should-know-about-html-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/what-you-should-know-about-html-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/why-online-website-builder-wix-sucks.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/why-online-website-builder-wix-sucks.html" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,11 +113,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1440" />
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
+  <component name="ProjectId" id="2qrGDQ0CJUF3qI1jAWcDbDnTNOA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -143,33 +153,40 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/UODEYDA/Sites/avisualidentity",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
+      </set>
+    </attachedChunks>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -184,6 +201,7 @@
       <workItem from="1514489135829" duration="130000" />
       <workItem from="1514574547728" duration="352000" />
       <workItem from="1519240493306" duration="496000" />
+      <workItem from="1735413161679" duration="1358000" />
     </task>
     <servers />
   </component>
@@ -214,14 +232,10 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CNAME">
