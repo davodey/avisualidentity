@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59222f0b-6d46-42eb-ad72-44406391f032" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/homeworkpilot-ad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/designing-for-performance.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/designing-for-performance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/exploring-parallax-scrolling-its-not-for-everyone.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/exploring-parallax-scrolling-its-not-for-everyone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/how-often-should-you-redesign-your-website.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/how-often-should-you-redesign-your-website.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/the-basics-of-flat-ui-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/the-basics-of-flat-ui-design.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/the-death-of-the-home-page-image-slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/the-death-of-the-home-page-image-slider.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/website-content-the-great-delay.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/website-content-the-great-delay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/what-you-should-know-about-html-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/what-you-should-know-about-html-5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/why-online-website-builder-wix-sucks.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/why-online-website-builder-wix-sucks.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +192,7 @@
       <workItem from="1514489135829" duration="130000" />
       <workItem from="1514574547728" duration="352000" />
       <workItem from="1519240493306" duration="496000" />
-      <workItem from="1735413161679" duration="1358000" />
+      <workItem from="1735413161679" duration="1485000" />
     </task>
     <servers />
   </component>
